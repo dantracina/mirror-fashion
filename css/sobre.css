@@ -35,3 +35,14 @@ figcaption {
 	font-style: italic;
 	margin-top: 10px;
 }
+
+#centro-distribuicao {
+	margin-left: auto;
+	margin-right: auto;
+	width: 550px;
+}
+
+#familia-pelho {
+	float: right;
+	margin: 0 0 10px 10px;
+}
